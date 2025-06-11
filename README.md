@@ -1,9 +1,7 @@
 ## 💜 Olá dev, bem vindo ao meu repositório!
 
-> Sou Gabriel Morona, Graduado em Técnico em Informática pela Escola Cedup Abílio Paulo, e cursando Engenharia de Software pela SATC. 
-Atuo como Front-End e Designer de interfaces, sou apaixonado pelo que faço! 
-Com habilidades sólidas em HTML5, CSS3, JavaScript, estou sempre buscando aprimorar seus conhecimentos em tecnologias avançadas, com foco atual em ReactJS, TypeScript e Node JS. Meu conhecimento e criatividade me torna um profissional altamente qualificado e eficiente na criação de soluções para projetos desafiadores
-
+> Sou um Desenvolvedor Pleno com 4 anos de experiência, apaixonado por criar soluções do zero — da concepção dos requisitos ao protótipo até o deploy final. Especialista em React, React Native (incluindo Expo) e Node.js, entrego interfaces agradáveis e experiências intuitivas. Tenho foco na inovação e usabilidade, sempre buscando fazer tecnologias fazerem sentido para o usuário.
+> 
 <div align="center"> 
   <a href="https://www.instagram.com/gabriel_morona/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:gabrielmorona0229@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
