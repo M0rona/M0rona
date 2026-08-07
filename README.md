@@ -1,5 +1,5 @@
-[![Gabriel Morona's GitHub Profile README](https://raw.githubusercontent.com/M0rona/M0rona/main/dark_mode.svg#gh-dark-mode-only)](https://github.com/M0rona)
-[![Gabriel Morona's GitHub Profile README](https://raw.githubusercontent.com/M0rona/M0rona/main/light_mode.svg#gh-light-mode-only)](https://github.com/M0rona)
+[![Gabriel Morona's GitHub Profile README](https://raw.githubusercontent.com/M0rona/M0rona/main/dark_mode.svg#gh-dark-mode-only)](https://github.com/M0rona#gh-dark-mode-only)
+[![Gabriel Morona's GitHub Profile README](https://raw.githubusercontent.com/M0rona/M0rona/main/light_mode.svg#gh-light-mode-only)](https://github.com/M0rona#gh-light-mode-only)
 
 ### 💼 Experiência
 
