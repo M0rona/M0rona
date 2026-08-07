@@ -1,0 +1,17 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache de bytecode Python
+__pycache__/
+*.pyc
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Arquivos de SO
+Thumbs.db
+.DS_Store
+
+SETUP.md
