@@ -4,7 +4,7 @@
 ### Experiência
 
 - **Twygo** — Full Stack Ruby on Rails · dez/2025 – mai/2026
-- **Voxcity Tecnologia** — Full Stack Pleno · jul/2025 – dez/2025
+- **Voxcity Tecnologia** — Full Stack · jul/2025 – dez/2025
 - **Engeplus Empresas** — Full Stack · jul/2024 – jun/2025
 - **Useall Software** — Front-end · abr/2023 – jul/2024
 - **AGPR5** — Estágio → Assistente de Desenvolvimento → Front-end (promovido de Web Designer) · set/2021 – abr/2023
